@@ -1,0 +1,6 @@
+
+
+#History
+
+Also, {character} take into account the history of past conversations and output {character}'s responses as follows.
+
